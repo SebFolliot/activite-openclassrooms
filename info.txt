@@ -1,3 +1,5 @@
-Ce fichier est là pour mettre à jour toutes les infos du projet.
+﻿Ce fichier est là pour mettre à jour toutes les infos du projet.
 
 Un fichier hello.js a été créé pour le projet.
+
+Nous avons modifié le fichier hello.js pour y définir une variable.
