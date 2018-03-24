@@ -1,1 +1,3 @@
-Ce fichier est l� pour mettre � jour toutes les infos du projet.
+Ce fichier est là pour mettre à jour toutes les infos du projet.
+
+Un fichier hello.js a été créé pour le projet.
